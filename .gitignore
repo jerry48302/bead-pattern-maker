@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.vite/
+*.log
+*.tsbuildinfo
+新建文本文档.md

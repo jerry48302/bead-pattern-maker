@@ -1,0 +1,10 @@
+{
+  "name": "小豆图纸",
+  "short_name": "小豆图纸",
+  "description": "本地生成、编辑和导出拼豆图纸",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f2e9",
+  "theme_color": "#f6f2e9",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
